@@ -1,0 +1,13 @@
+
+.logo {
+    font-family: "Times New Roman","Tangerine";
+}
+.logo span{
+    font-size: 36px;   
+}
+p.services-details {
+    font-size: 16px;
+}
+#footer-logo{
+    color: #444;
+}
